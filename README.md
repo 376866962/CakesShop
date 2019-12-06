@@ -1,9 +1,8 @@
 # CakesShop
-**作者：vili &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;联系方式：vili_wzl@126.com**
+
+**作者：积极向上小木木 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;联系方式：PositiveMumu@126.com**
 
 *基于jsp+servlet的网上蛋糕商城*
-
-[TOC]
 
 ## 一、项目功能
 
